@@ -1,0 +1,13 @@
+
+body {
+  margin: 0;
+  padding: 0;
+  /* background-color: #fff;  Pode ser qualquer cor para verificar */
+}
+
+#app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Para garantir que o conteúdo ocupe toda a tela */
+}
