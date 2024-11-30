@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/melodia_magica/static/css/main.97b701b9.css",
+    "main.js": "/melodia_magica/static/js/main.18696677.js",
+    "static/js/453.c98691e3.chunk.js": "/melodia_magica/static/js/453.c98691e3.chunk.js",
+    "static/media/animais-1.jfif": "/melodia_magica/static/media/animais-1.2b7819d4b94feec2f6a9.jfif",
+    "index.html": "/melodia_magica/index.html",
+    "main.97b701b9.css.map": "/melodia_magica/static/css/main.97b701b9.css.map",
+    "main.18696677.js.map": "/melodia_magica/static/js/main.18696677.js.map",
+    "453.c98691e3.chunk.js.map": "/melodia_magica/static/js/453.c98691e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97b701b9.css",
+    "static/js/main.18696677.js"
+  ]
+}
